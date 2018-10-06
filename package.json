@@ -1,0 +1,22 @@
+{
+    "name": "cordova-plugin-tencent-bg-location",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/x1ongzhu/cordova-plugin-tencent-bg-location.git"
+    },
+    "keywords": ["cordova"],
+    "author": "x1ongzhu",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/x1ongzhu/cordova-plugin-tencent-bg-location/issues"
+    },
+    "homepage": "https://github.com/x1ongzhu/cordova-plugin-tencent-bg-location#readme",
+    "cordova": {
+        "id": "cordova-plugin-wechat",
+        "platforms": ["android", "ios"]
+    }
+}
