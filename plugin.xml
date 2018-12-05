@@ -28,7 +28,7 @@
             <service android:name="cn.x1ongzhu.tencentBgLocation.LocationService" android:enabled="true" android:exported="false" />
         </config-file>
         <source-file src="src/android/lib/TencentLocationSdk_v6.2.5.3.jar" target-dir="libs" />
-        <source-file src="src/android/lib/armeabi/libtencentloc.so" target-dir="libs/armeabi" />
+        <source-file src="src/android/lib/armeabi/libtencentloc.so" target-dir="jniLibs/armeabi-v7a" />
         <!-- <source-file src="src/android/lib/armeabi-v7a/libtencentloc.so" target-dir="libs/armeabi-v7a" /> -->
         <!-- <source-file src="src/android/lib/arm64-v8a/libtencentloc.so" target-dir="libs/arm64-v8a" /> -->
         <!-- <source-file src="src/android/lib/x86/libtencentloc.so" target-dir="libs/x86" /> -->
